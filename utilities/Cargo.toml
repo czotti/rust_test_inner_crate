@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Clément Zotti <clement.zotti@imeka.ca"]
 
 [dependencies]
-main = { path="../../main" }
+main = { path="../" }

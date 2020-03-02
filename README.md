@@ -1,5 +1,9 @@
 This repository is to illustrate one of my issue when trying to use the [preferred answer](https://stackoverflow.com/a/44545091).
 
+```
+git clone https://github.com/czotti/rust_test_inner_crate.git
+```
+
 I want to use a type defined in the `main` crate but the rust compiler give me the error when I do `cargo test`
 
 ```
